@@ -1,0 +1,21 @@
+
+algoritmo asdf123 //khdgsjkdfghsjkldfg
+proceso asd123
+//asdf
+definir     variable1,variable2    como    entero;
+finalgoritmo
+fin algoritmo
+fin  proceso //lar123879/*-3459872134!"#$#$/&%&/alala
+finproceso //lar123879/*-3459872134!"#$#$/&%&/alala
+si  5 > 3  entonces //dfgsdfg
+
+
+
+  si  algo>=otracosa  entonces //dfgsdfg
+  sino
+  finsi
+leer asid, asd;
+escribir aa , bb , "tururu", asd;
+abc1 <-  "a asd"; //asdfasdf
+mientras 4=3 hacer //asdfasdf
+finmientras
